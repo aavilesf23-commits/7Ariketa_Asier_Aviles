@@ -6,7 +6,7 @@ plugins {
 android {
     namespace = "com.example.a7ariketa"
     compileSdk {
-        version = release(36) {
+        version = release(37) {
             minorApiLevel = 1
         }
     }
@@ -55,4 +55,7 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     debugImplementation(libs.androidx.compose.ui.test.manifest)
     debugImplementation(libs.androidx.compose.ui.tooling)
+    dependencies {
+        implementation("com.google.code.gson:gson:2.10.1")
+    }
 }

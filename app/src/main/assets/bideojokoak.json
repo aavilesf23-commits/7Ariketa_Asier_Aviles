@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "titulua": "The Legend of Zelda: Tears of the Kingdom",
+    "mota": "Abentura / Akzioa",
+    "plataforma": "Nintendo Switch"
+  },
+  {
+    "id": 2,
+    "titulua": "Elden Ring",
+    "mota": "RPG / Soulslike",
+    "plataforma": "Multiplataforma"
+  },
+  {
+    "id": 3,
+    "titulua": "Cyberpunk 2077",
+    "mota": "RPG / Zientzia fikzioa",
+    "plataforma": "PC / Kontsolak"
+  },
+  {
+    "id": 4,
+    "titulua": "Hollow Knight",
+    "mota": "Metroidvania",
+    "plataforma": "Multiplataforma"
+  }
+]
